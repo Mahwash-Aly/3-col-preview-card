@@ -111,6 +111,8 @@ p {
   .container{
     margin: 3rem 1rem;
     max-width: 375px;
+    display: grid;
+    grid-template-columns: 17rem;
   }
   h1 {
     margin-bottom: 0.5rem;
